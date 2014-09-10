@@ -6,5 +6,5 @@ For now these are just source code files, instruction how to deploy the node.js 
 
 To test it in singleplayer just open index.html.
 
-To test the actual multiplayer game go to:
+To test the actual game go to:
 http://spacebattlesinspace.herokuapp.com/
